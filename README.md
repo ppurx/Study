@@ -35,6 +35,7 @@
   - HWM
   - Transaction
   - Block
+  - clustered index
   
 [소프트웨어공학](https://github.com/ppurx/Study/blob/master/Software%20Engineering)
   - 객체지향설계원칙
