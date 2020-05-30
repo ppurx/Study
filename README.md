@@ -1,5 +1,5 @@
 # Content List
-[네트워크](https://github.com/ppurx/PrepareInterview/blob/master/Network)
+[네트워크](https://github.com/ppurx/Study/blob/master/Network)
   - OSI 7계층
   - TCP/IP 모델
   - 웹통신 흐름
@@ -7,7 +7,7 @@
   - 3Way , 4Way Handshake
   - DNS 서버
    
-[운영체제](https://github.com/ppurx/PrepareInterview/blob/master/OS)
+[운영체제](https://github.com/ppurx/Study/blob/master/OS)
   - 커널
   - PCB
   - 스케줄링
@@ -26,7 +26,7 @@
   - 뮤텍스
   - 컴파일러 vs 인터프리터
   
-[DB](https://github.com/ppurx/PrepareInterview/blob/master/Database)
+[DB](https://github.com/ppurx/Study/blob/master/Database)
   - 정규화
   - 인덱스
   - 옵티마이저
@@ -36,11 +36,11 @@
   - Transaction
   - Block
   
-[소프트웨어공학](https://github.com/ppurx/PrepareInterview/blob/master/Software%20Engineering)
+[소프트웨어공학](https://github.com/ppurx/Study/blob/master/Software%20Engineering)
   - 객체지향설계원칙
   - 디자인패턴
   
-[JAVA](https://github.com/ppurx/PrepareInterview/blob/master/Java)
+[JAVA](https://github.com/ppurx/Study/blob/master/Java)
   - OOP
   - static
   - final
@@ -59,7 +59,7 @@
   - Comparator - Comparable
   - checkedException vs unCheckedException
   
-[Spring](https://github.com/ppurx/PrepareInterview/blob/master/Spring)
+[Spring](https://github.com/ppurx/Study/blob/master/Spring)
   - DI
   - IoC
   - AoP
@@ -68,13 +68,13 @@
   - 어노테이션
   - jpa vs SQL Mapper
   
-[CleanCode](https://github.com/ppurx/PrepareInterview/blob/master/CleanCode)
+[CleanCode](https://github.com/ppurx/Study/blob/master/CleanCode)
   - 리팩토링
   - 코드리뷰
   - 코드스멜
   - 정적분석
   
-[Security](https://github.com/ppurx/PrepareInterview/blob/master/Security)
+[Security](https://github.com/ppurx/Study/blob/master/Security)
   - XSS & CSRF
   - 파일다운로드
   - 파일업로드
@@ -82,12 +82,12 @@
   - SQL Injection
   - 중요정보노출
   
-[Javascript](https://github.com/ppurx/PrepareInterview/blob/master/Javascript)
+[Javascript](https://github.com/ppurx/Study/blob/master/Javascript)
   - closer
   - this
   - DOM
   
-[Common](https://github.com/ppurx/PrepareInterview/blob/master/Common)
+[Common](https://github.com/ppurx/Study/blob/master/Common)
   - docker
   - ddd
   - MSA
