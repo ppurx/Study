@@ -32,4 +32,5 @@
   ## Comparator - Comparable
   
   ## checkedException vs unCheckedException
+  ### checkedException
   
