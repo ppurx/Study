@@ -87,7 +87,15 @@
   - closure
   - this
   - DOM
+  - callback
+  - promise
+  - async/await
+  - event driven programming
+  - scope
+  - 호출스택, 이벤트루프, 실행컨텍스트
+  - 프로토타입 (js.class <> java.class)
   - 
+  
   
 [Common](https://github.com/ppurx/Study/blob/master/Common)
   - docker
@@ -100,4 +108,10 @@
   - CORS
   - 함수형 
   
-  
+  [Design Pattern](https://github.com/ppurx/Study/blob/master/Common)
+    - Singleton
+    - Factory
+    - state
+    - stretegy
+    - observer
+    
