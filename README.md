@@ -84,9 +84,10 @@
   - 중요정보노출
   
 [Javascript](https://github.com/ppurx/Study/blob/master/Javascript)
-  - closer
+  - closure
   - this
   - DOM
+  - 
   
 [Common](https://github.com/ppurx/Study/blob/master/Common)
   - docker
@@ -97,6 +98,6 @@
   - gitflow
   - 애자일
   - CORS
-  
+  - 함수형 
   
   
